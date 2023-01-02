@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi All! I'm currently working on making VPN leaks detection chrome extension. <br>I am a full stack engineer with the interest in networking and cloud virtualisation technologies like Docker and Kubernetes. 
 
-- 👋 Hi, I’m @TapanBhatnagar212
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tapan Bhatnagar.
+- 👀 I’m interested in software and everything it can do. More specifically, cloud technologies. 
+- 🌱 I’m currently learning Docker extension development and Vue.js
+- 💞️ I’m looking to collaborate on Docker development.
+- 📫 How to reach me? Email me at tapanb@vt.edu
 
 
 ## 🌐 Socials:
